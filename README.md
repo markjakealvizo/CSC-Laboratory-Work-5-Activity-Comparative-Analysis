@@ -6,7 +6,10 @@
 # PART 12: Performance Comparison Table
 **Students MUST create a model comparison based on the 3 sample models used:**
 
-<img width="813" height="395" alt="image" src="https://github.com/user-attachments/assets/2e78320d-c29b-4014-ba17-58b2e43863c4" />
+<img width="887" height="442" alt="image" src="https://github.com/user-attachments/assets/645a59dc-8b26-4c4e-9817-4bcb7b63e4af" />
+<img width="886" height="471" alt="image" src="https://github.com/user-attachments/assets/28a5b1c7-c3fb-4ace-b50d-8bb028301467" />
+
+
 
 
 
